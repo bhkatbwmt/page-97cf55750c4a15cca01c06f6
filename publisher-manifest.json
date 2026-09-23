@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "19117be8cd597607fab61078",
+  "owner": "bhkatbwmt",
+  "repo": "page-97cf55750c4a15cca01c06f6",
+  "title": "夜煞(HiccupPort)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "97cf55750c4a15cca01c06f6",
+      "a": "夜煞(HiccupPort)",
+      "b": "2027最新官网",
+      "entity": "夜煞(HiccupPort)",
+      "brand": "夜煞(HiccupPort)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "30d81e6dcd8473f672c101e9fb3d9e2adac8912a2e4e511ef1e2a70e8157e649",
+      "content": {
+        "primary_entity": "夜煞(HiccupPort)",
+        "keyword1": "夜煞(HiccupPort)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统挑选客户端，按订阅配置流程逐步操作。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选好设备与套餐，导入订阅开始体验。",
+          "AI_CLOSING_TITLE": "夜煞加速，订阅即用",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开实际说明。基础版每月100GB流量、支持3台设备，适合手机与笔记本轻度使用；旗舰版每月300GB流量、支持5台设备，拥有IPLC专线游戏加速与全节点原生流媒体解锁，是多数用户均衡之选；团队版每月1000GB流量、支持20台设备，提供VIP专属高带宽节点与企业定制路由。各套餐均可按年付节省费用，按需求选择设备数量与流量档位即可。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路类型三个维度了解差异。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版月付15元、年付150元，含100GB流量与3台设备，适合轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版月付35元、年付350元，300GB流量、5台设备，IPLC专线优化游戏。",
+          "AI_FEATURE_TEXT_3": "团队版月付85元、年付850元，1000GB流量、20台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "入门流量够用",
+          "AI_FEATURE_TITLE_2": "均衡性能之选",
+          "AI_FEATURE_TITLE_3": "团队多设备方案",
+          "AI_GUIDE_INTRO": "按需求选服务、确认适配、依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步配置订阅",
+          "AI_HERO_INTRO": "夜煞(HiccupPort)提供多档海外加速套餐，覆盖基础浏览、流媒体解锁与游戏专线加速，可按设备数量与流量需求选择，并支持按年付降低月均成本。",
+          "AI_HERO_SUBTITLE": "多档加速套餐按需选",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "年付方案降低月均使用成本",
+          "AI_HIGHLIGHT_3": "客户端按设备系统分别选择",
+          "AI_PLANS_INTRO": "基础版月付15元，旗舰版月付35元并支持IPLC专线，团队版月付85元可20台设备同时在线，按年付更划算。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "明确常用设备数量与每月流量需求，在基础版、旗舰版、团队版中选择对应档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐适配的设备系统与客户端类型，确认与当前设备匹配。",
+          "AI_STEP_TEXT_3": "依照所选客户端文档完成订阅导入与节点选择，保存配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "夜煞加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版月付 ¥15，包含 100GB 流量和 3 台设备；旗舰版月付 ¥35，300GB 流量和 5 台设备；团队版月付 ¥85，1000GB 流量和 20 台设备。年付分别为 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "基础版 100GB、旗舰版 300GB、团队版 1000GB，均按月重置。日常浏览与视频基础版够用，常看高码率或玩外服游戏可考虑旗舰版。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线。手机、电脑、平板和路由器都算设备数，建议按常用设备总数选择档位。",
+          "AI_FAQ_ANSWER_4": "按设备选择客户端：Windows 和 macOS 用桌面客户端，iOS 与 Android 用移动端应用，路由器可刷入插件。具体以各客户端文档说明为准，不同平台兼容性存在差异。",
+          "AI_FAQ_ANSWER_5": "订阅一般包含节点地址、端口和密码等信息。导入后若无法连接，先检查设备时间与网络，再确认订阅是否已更新到最新节点列表。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "夜煞(HiccupPort)各套餐价格和内容是什么？",
+          "AI_FAQ_QUESTION_2": "每月流量额度是多少？",
+          "AI_FAQ_QUESTION_3": "支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "不同设备该用什么客户端？",
+          "AI_FAQ_QUESTION_5": "订阅配置需要注意什么？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq30khq6d.com",
+    "host": "xn--9kq30khq6d.com"
+  },
+  "file_hashes": {
+    "index.html": "6c984b8171f998dc76a95b69331ac06de2b75e835ba6797f9dce68fee9330adb",
+    "sitemap.xml": "a073117fa56b10c085a9df73be5989978ca23049bef2d9343619c582ad3afb69",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "26acdb36662e4ef792119632b1f06212f8f56c90410e71d3f6d3b05719fa59ea",
+    "robots.txt": "98858520cfa08d2558a6af923db34836e440fffe7d797b57e96f482186a16223",
+    "461c8428cbc5c2153257d453c8ac7c50.txt": "b8187921eb48e31981fb1eb1256d8c348b2756941a8043212f186ae18a31d87b"
+  },
+  "revision": "2b051ca5f5a35315f57551151e90f61d0ffb08095d334d30d543d1d6bf21363c"
+}
